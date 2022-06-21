@@ -21,3 +21,5 @@ Começar na trilha de Fullstack com as tecnologias Java, Angular e Spring Boot.
  
  >> *Certificado 05:* [Ver](https://www.dio.me/certificate/D0EF1190/share)
  
+ >> *Certificado 06:* [Ver](https://www.dio.me/certificate/D3AFCD29/share)
+ 
